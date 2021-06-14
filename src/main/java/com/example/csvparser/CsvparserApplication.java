@@ -1,13 +1,13 @@
-package example.kakaopay;
+package com.example.csvparser;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KakaopayApplication {
+public class CsvparserApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(KakaopayApplication.class, args);
+		SpringApplication.run(CsvparserApplication.class, args);
 	}
 
 }

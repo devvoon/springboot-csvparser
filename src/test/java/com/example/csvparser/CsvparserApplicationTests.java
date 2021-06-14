@@ -1,10 +1,10 @@
-package example.kakaopay;
+package com.example.csvparser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KakaopayApplicationTests {
+class CsvparserApplicationTests {
 
 	@Test
 	void contextLoads() {
